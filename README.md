@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prathammunge
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on machine learning projects for beginner
+- 🌱 I’m currently practicing python language
+- 💞️ I’m looking to collaborate on machine learning projects as well as LLM based projects
 - 📫 How to reach me :- email :- pratham.munge@gmail.com
 
 <!---
